@@ -1,0 +1,8 @@
+START
+m = INSERT
+READ m
+  IF m MOD 2 = 0 THEN
+      DISPLAY "Cut"
+  ELSE
+      DISPLAY "Tek"
+STOP
